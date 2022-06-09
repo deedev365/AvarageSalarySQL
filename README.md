@@ -2,7 +2,7 @@ Has three tables: Team , Company, Salary and need to get company name with avara
 
 *Team table:*
 --------------
-| id | name  | 
+\| id | name  | 
 --------------
 | 1  | Name1 |
 | 2  | Name2 | 
